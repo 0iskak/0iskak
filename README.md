@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi all 👋
+### Here is what I did:
+#### [Telegram bot](https://github.com/0iskak/telegram-random)
+#### [GUI app](https://github.com/0iskak/steam-account-switcher)
+and many shit repos...
 
 <!--
 **0iskak/0iskak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
